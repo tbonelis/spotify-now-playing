@@ -16,7 +16,7 @@ Se você estiver usando **Windows**, remova os apóstrofes
     set SPOTIPY_REDIRECT_URI=Digite seu redirect
 ## Agora só executar 
 ```bash
-python ../twitch-spotify-now_playing/src/main.py "your-username"
+python main.py "your-username"
 ```
 # **US**:
 This repository was made to save the python script using the spotipy lib
@@ -34,5 +34,5 @@ If you're using **Windows** just remove the aposthrofes.
 
 # Now you need to run 
 ```bash
-python ../twitch-spotify-now_playing/src/main.py "your-username"
+python main.py "your-username"
 ```
